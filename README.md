@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm HASAN ÖZSOY</h1>
 <h3 align="center">UNITY GAME DEVELOPER</h3>
 
-- 🔭 I’m currently working on **ASHROAD:REIGN**
-
 - 👨‍💻 All of my projects are available at [https://hasanzsoy.itch.io/](https://hasanzsoy.itch.io/)
 
 - 📫 How to reach me **hasanzsoy@outlook.com**
